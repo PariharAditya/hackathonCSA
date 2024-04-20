@@ -1,1 +1,0 @@
-print("Har Har Mahadev")
